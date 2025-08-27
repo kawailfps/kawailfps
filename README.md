@@ -6,6 +6,6 @@ dc   $  @kawail_fps
 srv  $  dsc.gg/theredghjuvan
 web  $  sexxy.lol/kawail_fps
 ```
-![](https://komarev.com/ghpvc/?username=kawailfps)
+![](https://komarev.com/ghpvc/?username=kawailfps) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F747&width=435&lines=Hi+my+name+is+jarod+i'm+developer+;and+i+love+baby+yoda+i'm+coding+;on+java+script+html+python+and+more)](https://git.io/typing-svg)
