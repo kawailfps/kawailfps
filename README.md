@@ -11,7 +11,7 @@ web  $  sexxy.lol/kawail_fps
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F747&width=435&lines=Hi+my+username+is+kawail+i'm+developer+;and+i+love+baby+yoda+i'm+coding+;on+java+script+html+python+and+more)](https://git.io/typing-svg)
 
 
----------------------------------------------------------------```About me```------------------------------------------------------------------
+----------------------------------------------------------------------```About me```------------------------------------------------------------------
 
 <h1 align="center">Hi 👋, I'm kawail_fps</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
@@ -23,7 +23,7 @@ web  $  sexxy.lol/kawail_fps
 <a href="https://twitter.com/kawail_fps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawail_fps" height="30" width="40" /></a>
 <a href="https://instagram.com/jibawatch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jibawatch" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kawail_fps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kawail_fps" height="30" width="40" /></a>
-<a href="https://discord.gg/https://dsc.gg/theredghjuvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/theredghjuvan" height="30" width="40" /></a>
+<a href="https://dsc.gg/theredghjuvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/theredghjuvan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
