@@ -3,7 +3,7 @@
 ```csharp
 github.com/kawailfps
 dc   $  @kawail_fps
-srv  $  dsc.gg/theredghjuvan
+srv  $  dsc.gg/theredghjuvanyt
 web  $  sexxy.lol/kawail_fps
 ```
 ![](https://komarev.com/ghpvc/?username=kawailfps) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/) 
