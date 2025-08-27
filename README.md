@@ -11,7 +11,7 @@ web  $  sexxy.lol/kawail_fps
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F747&width=435&lines=Hi+my+username+is+kawail+i'm+developer+;and+i+love+baby+yoda+i'm+coding+;on+java+script+html+python+and+more)](https://git.io/typing-svg)
 
 
-----------------------------------------------------------------------```About me```------------------------------------------------------------------
+----------------------------------------------------------------------**About me**------------------------------------------------------------------------
 
 <h1 align="center">Hi 👋, I'm kawail_fps</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
