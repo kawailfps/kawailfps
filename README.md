@@ -33,4 +33,4 @@ web  $  sexxy.lol/kawail_fps
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/kawailfps"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kawail_fps" /></a></p><br><br>
 
-<img align="left" src="https://cdn.discordapp.com/attachments/1381618788260118650/1410417320622293073/a_0c2c6d7de866717b2c991272e0e36800.gif?ex=68b0f0fd&is=68af9f7d&hm=43c0aff62838b67786b38abb036237f32054efbf894666205ad3d3362f6e2214&" width="147"/>
+<img align="left" src="https://cdn.discordapp.com/attachments/1381618788260118650/1410417320622293073/a_0c2c6d7de866717b2c991272e0e36800.gif?ex=68b0f0fd&is=68af9f7d&hm=43c0aff62838b67786b38abb036237f32054efbf894666205ad3d3362f6e2214&" width="1050"/>
