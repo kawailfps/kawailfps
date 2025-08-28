@@ -24,6 +24,7 @@ web  $  sexxy.lol/kawail_fps
 <a href="https://instagram.com/jibawatch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jibawatch" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kawail_fps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kawail_fps" height="30" width="40" /></a>
 <a href="https://dsc.gg/theredghjuvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/theredghjuvan" height="30" width="40" /></a>
+<a href="https://kawail.carrd.co/" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1381618788260118650/1410413857754583182/HUkUgAAAAAElFTkSuQmCC.png?ex=68b0edc3&is=68af9c43&hm=34de8c29774059e3081d819ec7483e9b56432f25eeec7ff312da26dc8dc4549a&" alt="https://kawail.carrd.co/" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
