@@ -1,3 +1,16 @@
+<!-- From Uiverse.io by jeremyssocial --> 
+<div class="terminal-loader">
+  <div class="terminal-header">
+    <div class="terminal-title">Status</div>
+    <div class="terminal-controls">
+      <div class="control close"></div>
+      <div class="control minimize"></div>
+      <div class="control maximize"></div>
+    </div>
+  </div>
+  <div class="text">Loading...</div>
+</div>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=kawail_fps+|+Le+fan+de+b%C3%A9b%C3%A9+yoda" alt="Typing SVG" /></a>
 <img align="left" src="https://cdn.discordapp.com/attachments/1408176612125577280/1410402170028822759/51339-babyyoda-christmas.png?ex=68b0e2e1&is=68af9161&hm=bed5935f7cd4f17215b80d88786a4653fdf25d8fd0e941ed085b9fb9ce1add0e&" width="147"/>
 ```csharp
